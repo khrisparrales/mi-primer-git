@@ -9,6 +9,10 @@ namespace proyecto
     {
         static void Main(string[] args)
         {
+            Console.Write("HOLA MUNDO!");
+            Console.WriteLine("DIME TU NOMBRE");
+            Console.ReadKey();
+
         }
     }
 }
